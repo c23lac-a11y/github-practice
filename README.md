@@ -7,3 +7,5 @@ Git과 GitHub 사용법을 배우기 위한 연습용 저장소입니다.
 - git add
 - git commit
 - git push
+
+한줄 추가
